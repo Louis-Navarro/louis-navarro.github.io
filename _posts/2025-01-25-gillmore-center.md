@@ -12,9 +12,9 @@ The FutureFinance.AI Research Group sits within the WBS Gillmore Centre for Fina
 
 ### UK Housing Affordability Tool
 
-My first task was to build developed an interactive map for England and Wales that matches users' financial profiles (savings and income) with property prices across districts, using HM Land Registry data and standard mortgage lending criteria.The user is also able to filter properties according to their housing features.
+My first task was to build an interactive map for England and Wales that matches users' financial profiles (savings and income) with property prices across districts, using HM Land Registry data and standard mortgage lending criteria. The user is also able to filter properties according to their housing features.
 
-Design a practical tool for navigating the UK real estate market while enhancing our understanding of housing price patterns.
+This is a practical tool for navigating the UK real estate market while enhancing our understanding of housing price patterns.
 
 The website is available at the following address: [https://affordability.gillmore.wbs.ac.uk/](https://affordability.gillmore.wbs.ac.uk/)
 
